@@ -1,4 +1,4 @@
-# CSUXiangyaBeamer
+# XiangyaBeamer
 
 基于 [HITBeamer](https://github.com/syvshc/HITBeamer/) 修改，感谢原作者的付出。
 
