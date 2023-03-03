@@ -2,6 +2,9 @@
 
 基于 [HITBeamer](https://github.com/syvshc/HITBeamer/) 修改，感谢原作者的付出。
 
+## 编译环境
+已知可行的编译环境为 `WinServer 2022 LSTC` + `TeX Live 2022`
+
 ---
 # 原作者的模板介绍
 
