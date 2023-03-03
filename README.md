@@ -1,8 +1,10 @@
-#CSUXiangyaBeamer
+# CSUXiangyaBeamer
+
 基于 [HITBeamer]((https://github.com/syvshc/HITBeamer/)修改，感谢原作者的付出。
 
 ---
-#原作者的模板介绍
+# 原作者的模板介绍
+
 # HITBeamer
 基于 [THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:
 
